@@ -2,6 +2,7 @@
     "name": "harshbhardwaj/report-maker",
     "description": "The package takes a block of text and returns a word document",
     "type": "symfony-bundle",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "vendor\\Module\\ReportMaker\\": "src"
