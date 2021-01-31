@@ -1,6 +1,6 @@
 # report-maker
 
-A package to convert a block of text into a word document.
+A package to convert a block of text into a word document. [link](https://packagist.org/packages/harshbhardwaj/report-maker)
 
 ## Some key points:
 
